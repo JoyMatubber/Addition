@@ -1,8 +1,8 @@
 public class Rana{
-	int a=10;
-	int b=5;
+	int a=20;
+	double  b=5.50;
 	public static void main(String args[]){
-                int sum =a+b;
+                double sum =a+b;
 		System.out.println("Total sum is :"+sum):
 	}
 }
